@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Namaz-Tracker/static/css/main.ddd87722.css",
+    "main.js": "/Namaz-Tracker/static/js/main.14784841.js",
+    "static/js/453.ae2a1133.chunk.js": "/Namaz-Tracker/static/js/453.ae2a1133.chunk.js",
+    "index.html": "/Namaz-Tracker/index.html",
+    "main.ddd87722.css.map": "/Namaz-Tracker/static/css/main.ddd87722.css.map",
+    "main.14784841.js.map": "/Namaz-Tracker/static/js/main.14784841.js.map",
+    "453.ae2a1133.chunk.js.map": "/Namaz-Tracker/static/js/453.ae2a1133.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddd87722.css",
+    "static/js/main.14784841.js"
+  ]
+}
