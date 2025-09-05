@@ -1,3 +1,6 @@
+# Namaz Tracker Diagram Which Explains How it is built!
+![Screenshot_5-9-2025_17735_gitdiagram com](https://github.com/user-attachments/assets/cc056258-c6a4-46c3-b541-3b2e578c9e72)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
